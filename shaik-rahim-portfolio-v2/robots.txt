@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shaikrahimdigital.github.io/sitemap.xml
